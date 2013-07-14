@@ -1,7 +1,7 @@
 rk3066-rt
 =========
 
-RT patchset for RK3066 kernel source from https://github.com/Galland/rk3x\_kernel\_3.0.36
+RT patchset for RK3066 kernel source from https://github.com/Galland/rk3x_kernel_3.0.36
 
 Untested so use at your own risk.
 
@@ -10,4 +10,4 @@ Untested so use at your own risk.
 `cd rk3x_kernel_3.0.36`
 `patch -p1 ../rk3066-rt/patch-3.0.36-rt58_rk3066.patch`
 
-And then build your kernel: http://linux-rockchip.info/mw/index.php?title=Building\_Linux\_Kernel#Build\_a\_kernel
+And then build your kernel: http://linux-rockchip.info/mw/index.php?title=Building_Linux_Kernel#Build_a_kernel
